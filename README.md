@@ -7,7 +7,7 @@ An AI-powered Virtual Saree Try-On web application that allows users to upload a
 ## 🚀 Features
 
 - 📸 Upload user image
-- 👗 Upload custom saree image
+- 👗 Upload custom fashion clothes images
 - 🤖 AI-powered virtual try-on generation
 - ⚡ FastAPI backend
 - 🎨 React + Vite frontend
